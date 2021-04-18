@@ -298,7 +298,7 @@ def action():
     print """
     """
     
-  raw_input("\n\033[1;92m[\033[1;92mEXIST\033[1;92m]")
+  raw_input("\n\033[1;92m[\033[1;92mEXIT\033[1;92m]")
     menu() 
           
 if __name__ == '__main__':

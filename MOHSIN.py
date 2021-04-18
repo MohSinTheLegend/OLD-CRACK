@@ -109,7 +109,7 @@ logo = """
 \033[1;97m CREATOR MOHSIN ALI
 logo1 = """
 
-\033[1;97m===============================================
+
 \033[1;92m☣CREATER :  MOHSIN ALI჻
 \033[1;96m☣WHATAAP : 03063112***჻
 \033[1;91m☣FACEBOOK:MOHSIN.ALI.THE.FATHER.OF.HATERX ჻

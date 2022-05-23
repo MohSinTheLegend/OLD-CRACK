@@ -17,18 +17,18 @@ $ pip2 install lolcat
 $ pip2 install mechanize
 $ pip2 install requests bs4
 $ apt install git
-$ git clone https://github.com/MohsinTheLegend/Without-IND
+$ git clone https://github.com/MohsinTheLegend/OLD-CRACK
 ```
 #### Run script
 ```python
-$ cd Without-IND
-$ python2 MOHSIN.pyc
+$ cd OLD-CRACK
+$ python2 MOHSIN.sh
 ```
 
 #### [~] Single Command
 
 ```python
-apt update -y ; apt upgrade -y ; apt install nodejs -y ; apt install python2 -y ; pip2 install lolcat ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pip2 install lolcat ; apt install git -y ; git clone https://github.com/MohsinTheLegend/Without-IND ; cd Without-IND ; python2 MOHSIN.pyc
+apt update -y ; apt upgrade -y ; apt install nodejs -y ; apt install python2 -y ; pip2 install lolcat ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pip2 install lolcat ; apt install git -y ; git clone https://github.com/MohsinTheLegend/OLD-CRACK ; cd OLD-CRACK ; python2 MOHSIN.sh
 ```
 # TOOL USERNAME OR PASS
 # *USER `NO NEED`
